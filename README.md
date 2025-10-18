@@ -1,4 +1,4 @@
-# 🎙️ Poetic Reflection AI
+# 🎙️ Murmur
 
 > *“Whisper your thoughts —  
 > and let them return as verses of your soul.”*
@@ -7,7 +7,7 @@
 
 ## 🌿 Overview
 
-**Poetic Reflection AI** is a contemplative companion —  an AI that listens, reflects, and replies not in logic,  but in **poetry**.
+**Murmur** is a contemplative companion —  an AI that listens, reflects, and replies not in logic,  but in **poetry**.
 
 Powered by **Mistral** for soulful language and **ElevenLabs** for lifelike voice synthesis, this project transforms your emotions into spoken art.
 
